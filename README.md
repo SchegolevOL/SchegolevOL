@@ -8,6 +8,10 @@
 
 https://github.com/SchegolevOL/Game2048
 
+## C# Прменение патерна MVVM в WPF
+
+https://github.com/SchegolevOL/ManageStaffDB
+
 ## Девиз
 
 Если тебе тяжело, значит ты поднимаешься в гору. 
