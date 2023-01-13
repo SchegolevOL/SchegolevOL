@@ -8,7 +8,7 @@
 
 https://github.com/SchegolevOL/Game2048
 
-## Прменение паттерна MVVM в C# WPF
+## Применение паттерна MVVM в C# WPF
 
 https://github.com/SchegolevOL/ManageStaffDB
 
