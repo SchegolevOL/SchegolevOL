@@ -12,6 +12,14 @@ https://github.com/SchegolevOL/Game2048
 
 https://github.com/SchegolevOL/ManageStaffDB
 
+## Пример HTML CSS
+
+https://github.com/SchegolevOL/JS-film-search-exam
+
+## Пример JS
+
+https://github.com/SchegolevOL/JS-HomeWork-weather
+
 ## Девиз
 
 Если тебе тяжело, значит ты поднимаешься в гору. 
