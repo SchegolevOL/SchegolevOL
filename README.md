@@ -20,6 +20,9 @@ https://github.com/SchegolevOL/JS-film-search-exam
 
 https://github.com/SchegolevOL/JS-HomeWork-weather
 
+## Пример ASP. Net Core
+https://github.com/SchegolevOL/ASP_Movies.git
+
 ## Девиз
 
 Если тебе тяжело, значит ты поднимаешься в гору. 
@@ -36,3 +39,4 @@ https://github.com/SchegolevOL/JS-HomeWork-weather
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SchegolevOL)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SchegolevOL&theme=solarized_dark)
+
