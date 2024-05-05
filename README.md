@@ -25,6 +25,10 @@ https://github.com/SchegolevOL/ASP_Movies.git
 
 https://github.com/SchegolevOL/CompanyASP.git
 
+CRUD AJAX PHP
+
+https://github.com/SchegolevOL/crud-ajax.git
+
 ## Девиз
 
 Если тебе тяжело, значит ты поднимаешься в гору. 
