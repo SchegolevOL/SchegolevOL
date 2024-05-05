@@ -25,7 +25,7 @@ https://github.com/SchegolevOL/ASP_Movies.git
 
 https://github.com/SchegolevOL/CompanyASP.git
 
-##CRUD AJAX PHP
+## CRUD Ajax PHP
 
 https://github.com/SchegolevOL/crud-ajax.git
 
