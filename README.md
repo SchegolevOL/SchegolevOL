@@ -28,6 +28,10 @@ https://github.com/SchegolevOL/CompanyASP.git
 ## CRUD Ajax PHP
 
 https://github.com/SchegolevOL/crud-ajax.git
+ 
+## Laravel Api
+
+https://github.com/SchegolevOL/laravel-api.loc.git
 
 ## Девиз
 
