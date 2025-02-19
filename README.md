@@ -4,7 +4,7 @@
 
 Высшее МИФИ. Закончил Академию РосАтома. Компютерной Академии Топ (Бывшей Шаг) Разработчика ПО. 
 
-##Laravel Reverb + Livewire
+## Laravel Reverb + Livewire
 https://github.com/SchegolevOL/LaravelReverb
 
 ## Моя первая игра на С++
