@@ -4,7 +4,7 @@
 
 Высшее МИФИ. Закончил Академию РосАтома. Компютерной Академии Топ (Бывшей Шаг) Разработчика ПО. 
 
-## Laravel Market
+## Laravel+Vue Market
 https://github.com/SchegolevOL/market
 
 
